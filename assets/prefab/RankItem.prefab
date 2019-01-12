@@ -55,7 +55,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 400,
+      "width": 550,
       "height": 90
     },
     "_anchorPoint": {
@@ -118,7 +118,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 400,
+      "width": 550,
       "height": 90
     },
     "_anchorPoint": {
@@ -332,7 +332,7 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": -131,
+      "x": -203,
       "y": 0,
       "z": 0
     },
@@ -432,7 +432,7 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": -173,
+      "x": -245,
       "y": 0,
       "z": 0
     },
@@ -521,7 +521,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 150,
+      "width": 300,
       "height": 30
     },
     "_anchorPoint": {
@@ -531,7 +531,7 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": -87.8,
+      "x": -176,
       "y": 0,
       "z": 0
     },
@@ -578,7 +578,7 @@
     "_N$horizontalAlign": 0,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "微软雅黑",
-    "_N$overflow": 1,
+    "_N$overflow": 2,
     "_id": ""
   },
   {
@@ -630,7 +630,7 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": 189,
+      "x": 245,
       "y": 0,
       "z": 0
     },
